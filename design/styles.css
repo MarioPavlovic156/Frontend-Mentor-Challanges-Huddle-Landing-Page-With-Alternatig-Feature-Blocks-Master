@@ -414,8 +414,9 @@ p {
   color: hsl(193, 100%, 96%);
 }
 
+/*******************************************************/
 
-@media (max-width:1240px) {
+@media screen and (max-width:1240px) {
   .picture {
     max-width: 600px;
     min-width: 100px;
